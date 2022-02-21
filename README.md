@@ -1,4 +1,6 @@
 <h1> Página Starbucks:  HTML, Css, Java Script✔💻
+  
+  https://starbucks-projeto.netlify.app/
 
 <h3>📌 Prévia do Site:
 
